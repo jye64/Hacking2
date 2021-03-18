@@ -5,7 +5,7 @@
 [equifax]:  https://github.com/jye64/Hacking2/blob/main/equifax.jpg
 *[Source](https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)*
 
-## Background
+# Background
 
 ### [Equifax Data Breach](https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)
 
@@ -50,7 +50,7 @@ HTTP Header Example:
 [More on RCE](https://dewcode.medium.com/remote-code-execution-vs-command-execution-df75707aed91)
 
 
-## Exploits
+# Exploits
 
 ### Simple Exploit
 
@@ -86,7 +86,7 @@ HTTP Header Example:
 * Ensure both the executable runs and disable the firewall service when the system boots
 
 
-## Analysis & Mitigation
+# Analysis & Mitigation
 
 ![alt text][attack flow]
 
@@ -110,7 +110,7 @@ HTTP Header Example:
 * Apache recommended immediate upgrade to Struts 2.3.32 or 2.5.10.1 after
 * Alternatively, implement a Servlet filter which acts as a workaround
 
-## What now
+# What now
 
 * Equifax still facing lawsuits and spent at least $1.5 billion
 * They claimed have invested over $200 million on cybersecurity after the breach

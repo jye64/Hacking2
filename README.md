@@ -21,7 +21,7 @@
 
 ![alt text][normal HTTP header]
 
-[normal HTTP header]: 
+[normal HTTP header]: https://github.com/jye64/Hacking2/blob/main/normal-http-header.png
 
 ### Attack Vector
 
@@ -80,8 +80,8 @@
 
 ![alt text][attack flow]
 
-[attack flow]:  https://github.com/OWASP/QRLJacking/blob/master/blob/images/AttackFlow.JPG
-*image by [OWASP](https://github.com/OWASP/QRLJacking)*
+[attack flow]:  https://github.com/jye64/Hacking2/blob/main/attack-flow.png
+
 
 ### Analysis
 

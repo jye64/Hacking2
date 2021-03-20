@@ -18,7 +18,7 @@
 ### CVE-2017-5638
 
 * The Jakarta Multipart parser, that is typically used for file uploads, in Apache Struts 2 2.3.x before 2.3.32 and 2.5.x before 2.5.10 has incorrect exception handling and error-message generation during file uploading attempts
-* Allows remote arbitary commands executions via a crefted Content-Type, Content-Disposition, or Content-Length HTTP header containing a #cmd = string
+* Allows remote arbitary commands executions via a crafted Content-Type, Content-Disposition, or Content-Length HTTP header containing a #cmd = string
 * [NVD page](https://nvd.nist.gov/vuln/detail/CVE-2017-5638)
 
 HTTP Header Example:

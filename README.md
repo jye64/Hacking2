@@ -124,7 +124,7 @@ HTTP Header Example:
 
 * **[https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html](https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)**
 
-*** **[https://www.synopsys.com/blogs/software-security/cve-2017-5638-apache-struts-vulnerability-explained/#:~:text=What%20is%20CVE%2D2017%2D5638,privileges%20of%20the%20Web%20server.&text=The%20vulnerable%20code%20is%20in%20the%20Jakarta%20Multipart%20parser.](https://www.synopsys.com/blogs/software-security/cve-2017-5638-apache-struts-vulnerability-explained/#:~:text=What%20is%20CVE%2D2017%2D5638,privileges%20of%20the%20Web%20server.&text=The%20vulnerable%20code%20is%20in%20the%20Jakarta%20Multipart%20parser.)****
+* **[https://www.synopsys.com/blogs/software-security/cve-2017-5638-apache-struts-vulnerability-explained/#:~:text=What%20is%20CVE%2D2017%2D5638,privileges%20of%20the%20Web%20server.&text=The%20vulnerable%20code%20is%20in%20the%20Jakarta%20Multipart%20parser.](https://www.synopsys.com/blogs/software-security/cve-2017-5638-apache-struts-vulnerability-explained/#:~:text=What%20is%20CVE%2D2017%2D5638,privileges%20of%20the%20Web%20server.&text=The%20vulnerable%20code%20is%20in%20the%20Jakarta%20Multipart%20parser.)**
 
 * **[https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)**
 

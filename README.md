@@ -1,4 +1,4 @@
-﻿# ECE 9069 Hacking Companion Notes on Apache Struts 		    CVE-2017-5638
+﻿# ECE 9069 Companion Note on Apache Struts 		    CVE-2017-5638
 
 ![alt text][equifax]
 
